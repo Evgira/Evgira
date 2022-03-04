@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Evgira/Evgira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... bevgira@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...i usually sit legs crossed on a chair while coding
--->
+
